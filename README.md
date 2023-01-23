@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There! 👋
 
 <!--
 **Linnet5/Linnet5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am Linus Karlsson, an M.Sc Student in Media Technology and Engineering.
+
+Welcome to my page! I love to work with creative solutions and to fully immerse myself in an exciting project. I am an ambitious and independent worker, but work at my absolute best ability in an engaged team. I know how to communicate and I have a positive attitude. Right now I am doing my master studies in media technology and engineering at Linköping University.
