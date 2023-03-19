@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 ## I am Linus Karlsson, an M.Sc Student in Media Technology and Engineering.
 
-Welcome to my page! I love to work with creative solutions and to fully immerse myself in an exciting project. I am an ambitious and independent worker, but work at my absolute best ability in an engaged team. I know how to communicate and I have a positive attitude. Right now I am doing my master studies in media technology and engineering at Linköping University.
+Welcome to my page! I love to work with creative solutions and to fully immerse myself in an exciting project. I am an ambitious and independent worker, but work at my absolute best ability in an engaged team. Studied media and photography in high school and right now I am doing my master studies in media technology and engineering at Linköping University.
+- 💬 Currently looking for a job in tech! 
 
 ## Projects
 
-An overview of projects, including projects that are currently in private repositories can be found on my [portfolio page](https://linnet5.github.io/).
+An overview of my projects, including stuff that isn't public on github can be found on my [portfolio page](https://linnet5.github.io/).
+
+- 🔭 I’m currently working on my game [ATGANGA: Spectacle for the Gods](https://atganga.com/).
+- 🌱 I’m currently learning Unity DOTS.
