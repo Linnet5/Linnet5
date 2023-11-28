@@ -22,4 +22,3 @@ Welcome to my page! I love to work with creative solutions and to fully immerse 
 ## Projects
 
 An overview of my projects, including stuff that isn't public on github can be found on my [portfolio page](https://linnet5.github.io/).
-- 🌱 I’m currently learning Unity DOTS.
